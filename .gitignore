@@ -1,0 +1,12 @@
+build
+*.env
+bin
+node_modules/
+typings/
+*.tsbuildinfo
+.eslintcache
+.env
+.env.test
+.env*.local
+tmp/
+temp/
